@@ -1,6 +1,2 @@
-console.log('sign up')
-console.log('sign up')
-console.log('sign up')
-console.log('sign up')
-console.log('sign up')
-console.log('sign up')
+console.log('login')
+console.log('login')
