@@ -1,5 +1,1 @@
-console.log('hello there')
-console.log('hello there')
-console.log('hello there')
-console.log('hello there')
-alert('byeeee')
+console.log('sign up')
